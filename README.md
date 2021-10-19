@@ -29,3 +29,7 @@ After this lesson, you'll be able to
 ## Post-Read
 Before this lesson , we recommend you go through
  - [Hands on Introduction to using Git and GitHub, video series (27 minutes)](https://www.youtube.com/playlist?list=PL5-da3qGB5IBLMp7LtN8Nc3Efd4hJq0kD)
+
+watched some more stuff on youtube.
+local developemment
+1) open file
